@@ -8,7 +8,6 @@ During my internship at Codsoft, I focused on practical applications of machine 
   - Implemented and fine-tuned various machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forest.
   - Used TF-IDF vectorization for feature extraction.
   - Evaluated model performance using accuracy, precision, recall, and F1-score metrics.
-- **Code:** [Movie Genre Classification](./movie_genre_classification.ipynb)
 
 ## 2. Credit Card Fraud Detection
 - **Objective:** Build a predictive model to identify fraudulent credit card transactions.
@@ -16,7 +15,6 @@ During my internship at Codsoft, I focused on practical applications of machine 
   - Preprocessed the dataset to handle imbalanced classes using techniques like SMOTE (Synthetic Minority Over-sampling Technique).
   - Explored and applied algorithms such as Logistic Regression, Decision Trees, and Random Forest.
   - Evaluated model effectiveness using precision, recall, F1-score, and confusion matrix.
-- **Code:** [Credit Card Fraud Detection](./credit_card_fraud_detection.ipynb)
 
 ## 3. Spam SMS Detection
 - **Objective:** Create a model to detect and filter out spam SMS messages.
@@ -24,12 +22,11 @@ During my internship at Codsoft, I focused on practical applications of machine 
   - Applied Natural Language Processing (NLP) techniques to clean and process the text data.
   - Used Naive Bayes, SVM, and Logistic Regression algorithms for classification.
   - Evaluated performance using metrics like accuracy, precision, recall, and F1-score.
-- **Code:** [Spam SMS Detection](./spam_sms_detection.ipynb)
 
 ## How to Run the Code
 To run the code in this repository, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Upendra6465/Codsoft-Internship.git
+   cd Codsoft-Internship
